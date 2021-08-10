@@ -12,11 +12,11 @@ Movies have been a big part of my life. Coming from a family who is heavily invo
 
 ### The Plan
 
-1.Identifying the mainstream relavant and non-overlapping genres
-2.The mainstream movies in each of these genres (the ones which are clear favorites)
-3.Preprocess and filter the data
-4.Build working code
-5.Run the code on the cluster.Obtain the results and declare the winner in each category
+-1.Identifying the mainstream relavant and non-overlapping genres
+-2.The mainstream movies in each of these genres (the ones which are clear favorites)
+-3.Preprocess and filter the data
+-4.Build working code
+-5.Run the code on the cluster.Obtain the results and declare the winner in each category
 
 ### The Genres
 
